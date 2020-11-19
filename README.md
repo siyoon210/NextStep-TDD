@@ -14,3 +14,6 @@ TDD, Clean Code with Java 10기 (20.10.28 ~ 진행중)
 - 2단계 - 로또(자동) : [코드리뷰](https://github.com/next-step/java-lotto/pull/863)
 - 3단계 - 로또(2등) : [코드리뷰](https://github.com/next-step/java-lotto/pull/867)
 - 4단계 - 로또(수동) : [코드리뷰](https://github.com/next-step/java-lotto/pull/891)
+
+## 사다리타기 - FP,OOP
+- 1단계 - 자바8 스트림, 람다, Optional : [코드리뷰](https://github.com/next-step/java-ladder/pull/669)
