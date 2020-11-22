@@ -17,3 +17,4 @@ TDD, Clean Code with Java 10기 (20.10.28 ~ 진행중)
 
 ## 사다리타기 - FP,OOP
 - 1단계 - 자바8 스트림, 람다, Optional : [코드리뷰](https://github.com/next-step/java-ladder/pull/669)
+- 2단계 - 사다리(생성) : [코드리뷰](https://github.com/next-step/java-ladder/pull/674)
