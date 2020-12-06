@@ -20,3 +20,6 @@ TDD, Clean Code with Java 10기 (20.10.28 ~ 진행중)
 - 2단계 - 사다리(생성) : [코드리뷰](https://github.com/next-step/java-ladder/pull/674)
 - 3단계 - 사다리(게임 실행) : [코드리뷰](https://github.com/next-step/java-ladder/pull/689)
 - 4단계 - 사다리(리팩토링) : [코드리뷰](https://github.com/next-step/java-ladder/pull/715)
+
+## 볼링 점수판 - OOP
+- 1단계 - 질문 삭제하기 기능 리팩토링 : [코드리뷰](https://github.com/next-step/java-bowling/pull/352)
