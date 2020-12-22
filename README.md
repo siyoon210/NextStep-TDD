@@ -1,5 +1,5 @@
 # NEXTSTEP TDD, Clean Code with Java
-TDD, Clean Code with Java 10기 (20.10.28 ~ 진행중)
+TDD, Clean Code with Java 10기 (20.10.28 ~ 20.12.23)
 [NEXTSTEP](https://edu.nextstep.camp/)
 
 ## 자동차 경주 - 단위테스트
@@ -25,3 +25,4 @@ TDD, Clean Code with Java 10기 (20.10.28 ~ 진행중)
 - 1단계 - 질문 삭제하기 기능 리팩토링 : [코드리뷰](https://github.com/next-step/java-bowling/pull/352)
 - 2단계 - 볼링 점수판(그리기) : [코드리뷰](https://github.com/next-step/java-bowling/pull/359)
 - 3단계 - 볼링 점수판(점수 계산) : [코드리뷰](https://github.com/next-step/java-bowling/pull/372)
+- 4단계 - 볼링 점수판(n명) : [코드리뷰](https://github.com/next-step/java-bowling/pull/400)
